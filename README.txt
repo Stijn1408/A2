@@ -13,4 +13,5 @@ Installation:
 	6. After permutations, the Spark Session sends the new data frames to a Google Big Query Table
 		6.1. The project-id and table names may have to be changed to personal values
 	7. The data can be read and visualized with Google Data Studio
+		7.1. Currently, the visualizations were made here: https://datastudio.google.com/reporting/3af554c6-7d5b-400d-a66f-ddf955d527eb
 
